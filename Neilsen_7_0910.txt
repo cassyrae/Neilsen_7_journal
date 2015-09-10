@@ -1,0 +1,5 @@
+Yesterday, we created an online directory and linked it to Github. We did this to make accessing the wiki page through github eaier.
+The commands that we do everyday for github are:
+1.)git add myfilename
+2.)git commit -m "This is my journal for September 10th"
+3.)git push -u origin master
