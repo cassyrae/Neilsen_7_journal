@@ -1,0 +1,1 @@
+Pseudocode is a computer program that previews commands through the computer and makes complicated commands simpiler to understand for the user. We will use this to better understand commands easier and make it less complicated in order to follow the steps to proplem solving to code faster and with ease.
