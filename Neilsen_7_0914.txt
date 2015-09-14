@@ -1,0 +1,2 @@
+It is important to orginize ones thoughts and not proccessing in a haphazard manner because it gives you time to think over your work to avoid problems in coding and to know how do code on your own so you wouldnt have to rely on coping others work in order to complete a program or anything else.
+And we will finish creating an image of your processing art overlaid with code because if we were to loose the image or something else happened, we would have the code to reference back to and we would also see the code that goes into making the art and better understand it.
